@@ -1,0 +1,12 @@
+---
+redirects:
+  - from: v
+    to: https://bbb.paquerette.eu/b/tlscp
+  - from: visio
+    to: https://bbb.paquerette.eu/b/telescoop
+hostnames:
+  - l.tlscp.fr
+  - liens.telescoop.fr
+certificate_hostname: l.tlscp.fr
+main_hostname: l.tlscp.fr
+https_enabled: true
